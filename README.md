@@ -21,7 +21,7 @@
 <h2 align="left">🌐 Connect with Me</h2>
 <p align="left">
   <a href="https://linkedin.com/in/kariya-jay" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="wrape-content" width="wrape-content" />
   </a>
   <a href="https://instagram.com/jay_kariya_01" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
@@ -30,13 +30,6 @@
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" width="40" />
   </a>
 </p>
-
-<p align="left">
-  <a href="https://instagram.com/jay_kariya_01" target="_blank">
-    <button style="background-color:#e4405f;color:white;border:none;padding:10px 15px;border-radius:5px;cursor:pointer;font-size:16px;">📷 Contact Me on Instagram</button>
-  </a>
-</p>
-
 ---
 
 <h2 align="left">🛠️ Languages and Tools</h2>
@@ -93,6 +86,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
+
+---
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kariya-jay&" alt="kariya-jay" /></p> 
 
 ---
 
