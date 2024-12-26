@@ -20,16 +20,19 @@
 
 <h2 align="left">🌐 Connect with Me</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/kariya-jay" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/kariya-jay" target="_blank" style="text-decoration: none;">
+    <button style="background-color:#0e76a8;color:white;border:none;padding:10px 15px;border-radius:5px;cursor:pointer;font-size:16px;">💼 LinkedIn</button>
   </a>
-  <a href="https://instagram.com/jay_kariya_01" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/jay_kariya_01" target="_blank" style="text-decoration: none;">
+    <button style="background-color:#e4405f;color:white;border:none;padding:10px 15px;border-radius:5px;cursor:pointer;font-size:16px;">📷 Instagram</button>
   </a>
-  <a href="mailto:jaykariya1505@gmail.com" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="mailto:jay.kariya@example.com" target="_blank" style="text-decoration: none;">
+    <button style="background-color:#db4437;color:white;border:none;padding:10px 15px;border-radius:5px;cursor:pointer;font-size:16px;">✉️ Email</button>
   </a>
 </p>
+
 ---
 
 <h2 align="left">🛠️ Languages and Tools</h2>
