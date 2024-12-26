@@ -36,7 +36,7 @@
 <h2 align="left">🛠️ Languages and Tools</h2>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="80" height="80" value="Github"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -88,10 +88,10 @@
   </a>
 </p>
 
+---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kariya-jay&theme=radical" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariya-jay&layout=compact&theme=radical" alt="Top Languages" />
 </p>
----
 
 <h2 align="center">✨ Let's Connect & Build Amazing Things Together!</h2>
