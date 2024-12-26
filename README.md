@@ -26,8 +26,14 @@
   <a href="https://instagram.com/jay_kariya_01" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="mailto: jaykariya1505@gmail.com" target="_blank">
+  <a href="mailto:jaykariya1505@gmail.com" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" width="40" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://instagram.com/jay_kariya_01" target="_blank">
+    <button style="background-color:#e4405f;color:white;border:none;padding:10px 15px;border-radius:5px;cursor:pointer;font-size:16px;">📷 Contact Me on Instagram</button>
   </a>
 </p>
 
@@ -36,7 +42,7 @@
 <h2 align="left">🛠️ Languages and Tools</h2>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="80" height="80" value="Github"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -89,9 +95,5 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kariya-jay&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariya-jay&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 <h2 align="center">✨ Let's Connect & Build Amazing Things Together!</h2>
