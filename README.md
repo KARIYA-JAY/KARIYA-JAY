@@ -36,7 +36,7 @@
     </button>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:jay.kariya@example.com" target="_blank" style="text-decoration: none;">
+  <a href="mailto:jaykariya1505@gmail.com" target="_blank" style="text-decoration: none;">
     <button style="background-color:#db4437;color:white;border:none;padding:10px 15px;border-radius:5px;cursor:pointer;font-size:16px;transition:background-color 0.3s ease-in-out;"
             onmouseover="this.style.backgroundColor='#b33b2e'"
             onmouseout="this.style.backgroundColor='#db4437'">
