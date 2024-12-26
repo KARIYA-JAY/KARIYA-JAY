@@ -20,7 +20,7 @@
 
 <h2 align="left">🌐 Connect with Me</h2>
 <p align="left">
-  <a href="jay-kariya-554366252" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/jay-kariya-554366252/" target="_blank" style="text-decoration: none;">
     <button style="background-color:#0e76a8;color:white;border:none;padding:10px 15px;border-radius:5px;cursor:pointer;font-size:16px;transition:background-color 0.3s ease-in-out;"
             onmouseover="this.style.backgroundColor='#084877'"
             onmouseout="this.style.backgroundColor='#0e76a8'">
@@ -44,7 +44,6 @@
     </button>
   </a>
 </p>
----
 
 <h2 align="left">🛠️ Languages and Tools</h2>
 <p align="left"> 
