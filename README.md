@@ -1,11 +1,5 @@
 <h1 align="center" style="color:#FFFFFF;">Hi 👋, I'm Jay Kariya</h1>
 <h3 align="center" style="color:#D3D3D3;">A passionate web developer from India</h3>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=kariya-jay&label=Profile%20views&color=grey&style=flat" alt="kariya-jay" />
-  <img src="https://img.shields.io/github/followers/kariya-jay?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
 ---
 
 <h2 align="center" style="color:#FFFFFF;">🚀 About Me</h2>
