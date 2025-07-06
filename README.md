@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#FFFFFF;">Hi 👋, I'm Jay Kariya</h1>
 <h3 align="center" style="color:#D3D3D3;">A passionate web developer from India</h3>
----
+
 
 <h2 align="center" style="color:#FFFFFF;">🚀 About Me</h2>
 
@@ -9,7 +9,6 @@
 - 📫 How to reach me: **jaykariya1505@gmail.com**
 
 
----
 
 <h2 align="left" style="color:#FFFFFF;">🌐 Connect with Me</h2>
 <p align="left">
